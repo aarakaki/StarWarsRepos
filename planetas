@@ -1,0 +1,3 @@
+Alderaan
+Coruscant
+Endor
