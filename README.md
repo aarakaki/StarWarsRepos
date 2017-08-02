@@ -1,4 +1,4 @@
 # Star Wars Repos
-![./tiefighter.png](TIE Fighter)
+![alt TIE FIGHTER](./tiefighter.png)
 
 Repositório teste
